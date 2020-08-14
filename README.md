@@ -1,4 +1,8 @@
-### Hi there 👋
+### Junior Python Developer
+- 🌱 I’m currently learning: Python 3, Django Framework, Relational databases, Aiogram
+- 📫 Feel free to ping me on: sp4c3cow@protonmail.com
+
+🔍 Finding myself
 
 <!--
 **sp4c3cow/sp4c3cow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
