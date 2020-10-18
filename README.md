@@ -1,4 +1,4 @@
-### Junior Python Developer
+### Junior Python Backend Developer
 - 🌱 I’m currently focused on Python 3 and Django Framework
 - 📫 Feel free to ping me on: sp4c3cow@protonmail.com
 
