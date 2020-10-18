@@ -1,5 +1,5 @@
 ### Junior Python Developer
-- 🌱 I’m currently learning: Python 3, Django Framework, Relational databases, Aiogram
+- 🌱 I’m currently focused on Python 3 and Django Framework
 - 📫 Feel free to ping me on: sp4c3cow@protonmail.com
 
 🔍 Finding myself
