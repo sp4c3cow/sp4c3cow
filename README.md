@@ -1,8 +1,7 @@
-### Intern Python Backend Developer
+### Just another GitHub contributor
 - 🌱 I’m currently focused on Python 3 and Django Framework
-- 📫 Feel free to ping me on: sp4c3cow@protonmail.com
+- 📫 Feel free to ping me on: space@gmail.com
 
-🔍 Finding myself
 
 <!--
 **sp4c3cow/sp4c3cow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
